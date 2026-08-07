@@ -1,4 +1,4 @@
-![Logo](Images/Logo.png)
+<img src="Images/Logo.png" alt="Logo" width="300">
 
 
 ### Alignment:
