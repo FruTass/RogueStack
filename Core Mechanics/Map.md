@@ -1,4 +1,4 @@
-![[Pasted image 20260807154548.png|583]]
+<img src="Images/Map.png" alt="Map" width="600">
 
 # **Royal Wood**s:
 Green forestry and absurdly large trees surround this area.
