@@ -1,5 +1,3 @@
-<img src="Images/Logo.png" alt="Logo" width="300">
-
 
 ### Alignment:
 
