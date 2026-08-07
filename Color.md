@@ -1,0 +1,3 @@
+Race: Scroom
+Class: Illusionist
+
