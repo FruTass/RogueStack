@@ -1,20 +1,18 @@
 <img src="Images/Map.png" alt="Map" width="600">
 
-# **Royal Wood**s:
+# Royal Woods
 Green forestry and absurdly large trees surround this area.
-![[Pasted image 20260807180401.png|424]]
 
 Ingredients:
 - Dire Flowers (littered all around the area)
-- Moss Plants ([[Map#**Alana**|Alana]])
+- Moss Plants ([Alana](#alana))
 - Scrooms
-## **Oresfall**
-![[Pasted image 20260807180322.png|383]]
+## Oresfall
 - Areas of Interest:
 	- Merchant
 	- Doctor
 	- Meat Vendor
-	- [[Core Mechanics#**Orderly** The good|Bounty Hunter]]
+	- [Bounty Hunter](Core%20Mechanics.md#orderly-the-good)
 	- Tome Giver
 		- *Requires day 1 + mana, replaces your weapon*
 - Weapons you can purchase:
@@ -37,7 +35,7 @@ Ingredients:
 			- Give NPC Health Potion for +Orderly
 			- Give NPC Switch Witch Potion for +Chaotic
 
-## **Alana**
+## Alana
 - Areas of Interest:
 	- Merchant
 	- Doctor
@@ -47,44 +45,44 @@ Ingredients:
 	- Moss Plants
 - Quests:
 	- Repeatable (every in-game day):
-		- Turnip Quest (Give Turnip from [[Map#**Flowerlight Town**|Flowerlight]])
+		- Turnip Quest (Give Turnip from [Flowerlight](#flowerlight-town))
 			- +Orderly
 
-## **Scroomville**
+## Scroomville
 
-## **Central Sanctuary**
+## Central Sanctuary
 
-## **Sanguine Shrine**
+## Sanguine Shrine
 
-## **Church of The Prince**
+## Church of The Prince
 
-## **Grendel's Hut**
+## Grendel's Hut
 
 --- 
-# **Sea of Dust**:
+# Sea of Dust
 Desert biome that slowly raises your temperature, it makes you sweat after a certain point.
 
 Ingredients:
 - Lava Flowers (Littered all around)
-- Scrooms ([[Map#**Renova Town**|Renova]])
-- Glow Shrooms (Inside a cave located on top of [[Map#**Renova Town**|Renova]])
+- Scrooms ([Renova](#renova-town))
+- Glow Shrooms (Inside a cave located on top of [Renova](#renova-town))
 
 Unnamed areas include:
 - Warrior Base Class Trainer Hut
 - Temple Ruins
-## **Sentinel**
-## **Renova Town**
-## **Southern Sanctuary**
+## Sentinel
+## Renova Town
+## Southern Sanctuary
 
 ---
-# **Sleeping Forest**:
+# Sleeping Forest
 
-## **Flowerlight Town**
+## Flowerlight Town
 
-## **Sunken Passage**
+## Sunken Passage
 
 --- 
-# **Tundra**
+# Tundra
 
 ---
-# **Skycastle**
+# Skycastle
