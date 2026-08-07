@@ -1,28 +1,28 @@
 # **Dragon Slayer**
 ***Race**: Haseldan*
 
-> Refer to [before progression](Core%20Mechanics/Before%20Progression.md) to get very helpful late-game passive and active skills.
+> Refer to [before progression](CoreMechanics/BeforeProgression.md) to get very helpful late-game passive and active skills.
 
 ### 1) Pit Fighter 
 [*Spear Base Class* ](https://rogue-lineage.fandom.com/wiki/Pit_Fighter)
 
-You can purchase a **spear** at [Oresfall](Core%20Mechanics/Map.md#oresfall), always buy the bronze to maximize XP gain (XP gain is per every hit, not per damage dealt)
-- *Refer to the [Map](Core%20Mechanics/Map.md) for getting around areas of interest.*
+You can purchase a **spear** at [Oresfall](CoreMechanics/Map.md#oresfall), always buy the bronze to maximize XP gain (XP gain is per every hit, not per damage dealt)
+- *Refer to the [Map](CoreMechanics/Map.md) for getting around areas of interest.*
 
 > Pit Fighter is the base spear class that specializes in long range and doing long damage combos.
 
-**Trainer Location**: [Oresfall](Core%20Mechanics/Map.md#oresfall), to the back where there's a huge pit arena, right next to where you buy the spears.
+**Trainer Location**: [Oresfall](CoreMechanics/Map.md#oresfall), to the back where there's a huge pit arena, right next to where you buy the spears.
 
 
 - Requirements:
-	- 8 Zombie Scrooms ([Sleeping Forest](Core%20Mechanics/Map.md#sleeping-forest))
+	- 8 Zombie Scrooms ([Sleeping Forest](CoreMechanics/Map.md#sleeping-forest))
 		- 2 Zombie Scrooms per skill
 - Payment: 
 	- Each skill is 45 Silver
 	- 180 Silver total
 - Skills:
 	- Active:
-		- **Serpent Strike**: Delivers a swift stab that temporarily [poisons](Core%20Mechanics/Core%20Mechanics.md#poison) an opponent.
+		- **Serpent Strike**: Delivers a swift stab that temporarily [poisons](CoreMechanics/CoreMechanics.md#poison) an opponent.
 			- *The poison effect bypasses blocking and mana shields.*
 		- **Tripe Strike**: Unleashes three rapid strikes and knocks an opponent back on the final hit.
 	- Passive:
@@ -36,17 +36,17 @@ You can purchase a **spear** at [Oresfall](Core%20Mechanics/Map.md#oresfall), al
 
 > Dragon Knights use the powers of a dragon to deal heavy hitting attacks with their small move set. Dragon Knights can use dragon-like abilities to stun enemies or empower themselves.
 
-**Trainer Location**: [Flowerlight Town](Core%20Mechanics/Map.md#flowerlight-town), leaning against the merchant building with a 
+**Trainer Location**: [Flowerlight Town](CoreMechanics/Map.md#flowerlight-town), leaning against the merchant building with a 
 
 - Requirements:
 	- Max Pit Fighter
 	- 8 Zombie Scrooms per skill, 24 total
-	- Gain 15 [Orderly](Core%20Mechanics/Core%20Mechanics.md#orderly-the-good) 
-		- Drink 5 [Tespian Elixirs](Core%20Mechanics/Core%20Mechanics.md#orderly-the-good) before any quest | In [Oresfall](Core%20Mechanics/Map.md#oresfall): Sick Girl Quest, Homeless Man Quest | In [Alana](Core%20Mechanics/Map.md#alana): Turnip Quest | In [Flowerlight](Core%20Mechanics/Map.md#flowerlight-town): Toilet Hand Quest | In [Southern Sanctuary](Core%20Mechanics/Map.md#southern-sanctuary): Scroom Guy Quest
-			- Refer to the [Map](Core%20Mechanics/Map.md) for getting around areas of interest.
+	- Gain 15 [Orderly](CoreMechanics/CoreMechanics.md#orderly-the-good) 
+		- Drink 5 [Tespian Elixirs](CoreMechanics/CoreMechanics.md#orderly-the-good) before any quest | In [Oresfall](CoreMechanics/Map.md#oresfall): Sick Girl Quest, Homeless Man Quest | In [Alana](CoreMechanics/Map.md#alana): Turnip Quest | In [Flowerlight](CoreMechanics/Map.md#flowerlight-town): Toilet Hand Quest | In [Southern Sanctuary](CoreMechanics/Map.md#southern-sanctuary): Scroom Guy Quest
+			- Refer to the [Map](CoreMechanics/Map.md) for getting around areas of interest.
 - Payment:
 	- Each skill is 100 Silver + 1 Acorn Light
-		- *You obtain Acorn Lights by travelling to [Sunken Passage](Core%20Mechanics/Map.md#sunken-passage), going inside and to the right, and straight once you enter the 'staircase'. They're the glowing ones dangling by the ceiling.*
+		- *You obtain Acorn Lights by travelling to [Sunken Passage](CoreMechanics/Map.md#sunken-passage), going inside and to the right, and straight once you enter the 'staircase'. They're the glowing ones dangling by the ceiling.*
 	- 300 + 3 Acorn Lights total
 - Skills:
 	- Active:
