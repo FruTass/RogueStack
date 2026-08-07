@@ -12,7 +12,7 @@ Ingredients:
 	- Merchant
 	- Doctor
 	- Meat Vendor
-	- [Bounty Hunter](Core%20Mechanics.md#orderly-the-good)
+	- [Bounty Hunter](CoreMechanics.md#orderly-the-good)
 	- Tome Giver
 		- *Requires day 1 + mana, replaces your weapon*
 - Weapons you can purchase:
