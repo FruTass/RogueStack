@@ -70,4 +70,7 @@ You can purchase a **spear** at [Oresfall](CoreMechanics/Map.md#oresfall), alway
 
 > Instead of utilizing long combos, Dragon Slayer is able to do insane amounts of damage with only a couple hits and combos.
 
-Trainer Location: Skycastle
+**Trainer Location**: Skycastle
+
+- Requirements:
+	- 

@@ -34,9 +34,18 @@ Your alignment does not determine whether or not you can grip people, it's only 
 #### Chaotic: The evil
 
 
+### Injuries:
+
+#### Laceration
+Slash Injury can be obtained from the Church Knight's Impale, Nocere, Sword injury, or a Monster. When a player has this injury, their max health is reduced by 20%.
+
+---
 ### Status Effects:
 
 #### Poison 
 Poison is a status effect that will drain the player's health by 10% on proc. Poison will do this for a set period of time.
 -  *Poison cannot kill a player (only knocking them down) and also cancels healing.*
 ---
+#### Bleeding
+Bleeding is a status effect applied from Church Knight's Impale and Abomination's Aura of Despair. 
+- *This removes all forms of gaining health for a set amount of time, preventing natural regeneration, Health Potions, and external healing like Mederi.*
