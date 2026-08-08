@@ -5,6 +5,7 @@ Immediately after spawn:
 
 **Mercenary Carry**:
 - Normally, when you carry someone that's knocked (Pressing V) you can't run or dash with them on your shoulder, this Sword Base Class passive let's you do that and it's essential late game.
+	- **If you're an Ashiin, you spawn with this ability**
 
 1) Buy a **bronze** sword from either Sentinel, Alana, or Oresfall
 	- Head to the Zombie Scrooms (ZScrooms) in Sleeping Forest

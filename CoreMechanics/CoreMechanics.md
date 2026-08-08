@@ -32,12 +32,28 @@ Your alignment does not determine whether or not you can grip people, it's only 
 		- Toilet Hand Quest (Orderly / Chaotic)
 			- Located in [Flowerlight](Map.md#flowerlight-town), in one of the houses to the back. You need to speak to the hand in the toilet on the second floor, and then receive a love letter from the girl in the first floor, and give it back.
 #### Chaotic: The evil
+**Ways of attaining orderly:**
 
+- Gripping: 
+	- Gripping other players grants you chaotic. Every grip is worth 2 chaotic. If your class requires 60 chaotic, you need to grip 30 people.
+- Assassination Missions:
+	- The chaotic equivalent to Bounty Officers. Located in Oresfall or in the basement of the Warrior class trainer. It will tell you the location of someone on the map, and you must grip them and come back to the Master Assassin to receive the chaotic. 
+		- Rewards you with silver and 10 chaotic (5 grips' worth)
+- Chaotic Quests:
+	- One-Time:
+		- Sick Girl (Orderly / Chaotic)
+			- Located in [Oresfall](Map.md#oresfall), the first accessible house on the left, and up the stairs. Requires you to brew a Switch Witch Potion (1 Dire Flower + 2 Glowshrooms)
+		- Toilet Hand Quest (Orderly / Chaotic)
+			- Located in [Flowerlight](Map.md#flowerlight-town), in one of the houses to the back. You need to speak to the hand in the toilet on the second floor, and give it a Cursed Tag from one of the ZScrooms.
 
 ### Injuries:
 
 #### Laceration
 Slash Injury can be obtained from the Church Knight's Impale, Nocere, Sword injury, or a Monster. When a player has this injury, their max health is reduced by 20%.
+
+#### Concussion
+Concussions occur when being hit with a Warrior's Pommel Strike, Monsters, or through Nocere. When this happens, the player's screen becomes blurry.
+- *The screen becomes blurry to the point where the player cannot read other players' messages.*
 
 ---
 ### Status Effects:
@@ -45,7 +61,7 @@ Slash Injury can be obtained from the Church Knight's Impale, Nocere, Sword inju
 #### Poison 
 Poison is a status effect that will drain the player's health by 10% on proc. Poison will do this for a set period of time.
 -  *Poison cannot kill a player (only knocking them down) and also cancels healing.*
----
+
 #### Bleeding
 Bleeding is a status effect applied from Church Knight's Impale and Abomination's Aura of Despair. 
 - *This removes all forms of gaining health for a set amount of time, preventing natural regeneration, Health Potions, and external healing like Mederi.*

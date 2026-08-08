@@ -9,7 +9,6 @@
 
 > Pit Fighter is the base spear class that specializes in long range and doing long damage combos.
 
-
 You can purchase a **spear** at [Oresfall](CoreMechanics/Map.md#oresfall), always buy the bronze to maximize XP gain (XP gain is per every hit, not per damage dealt)
 - *Refer to the [Map](CoreMechanics/Map.md) for getting around areas of interest.*
 
