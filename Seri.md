@@ -1,2 +1,2 @@
 Race: Ashiin
-
+Class: Ronin

@@ -1,1 +1,2 @@
 Race: Dzin
+Class: Shinobi 

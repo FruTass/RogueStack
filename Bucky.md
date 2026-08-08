@@ -1,18 +1,19 @@
-# **Dragon Slayer**
+# **Bucky: Dragon Slayer**
 ***Race**: Haseldan*
 
-> Refer to [before progression](CoreMechanics/BeforeProgression.md) to get very helpful late-game passive and active skills.
+> Refer to [before progression](CoreMechanics/BeforeProgression.md) to get very helpful late-game passive and active skills. 
 
+---
 ### 1) Pit Fighter 
 [*Spear Base Class* ](https://rogue-lineage.fandom.com/wiki/Pit_Fighter)
+
+> Pit Fighter is the base spear class that specializes in long range and doing long damage combos.
+
 
 You can purchase a **spear** at [Oresfall](CoreMechanics/Map.md#oresfall), always buy the bronze to maximize XP gain (XP gain is per every hit, not per damage dealt)
 - *Refer to the [Map](CoreMechanics/Map.md) for getting around areas of interest.*
 
-> Pit Fighter is the base spear class that specializes in long range and doing long damage combos.
-
 **Trainer Location**: [Oresfall](CoreMechanics/Map.md#oresfall), to the back where there's a huge pit arena, right next to where you buy the spears.
-
 
 - Requirements:
 	- 8 Zombie Scrooms ([Sleeping Forest](CoreMechanics/Map.md#sleeping-forest))
@@ -69,4 +70,4 @@ You can purchase a **spear** at [Oresfall](CoreMechanics/Map.md#oresfall), alway
 
 > Instead of utilizing long combos, Dragon Slayer is able to do insane amounts of damage with only a couple hits and combos.
 
-Trainer Location: 
+Trainer Location: Skycastle

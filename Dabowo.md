@@ -1,3 +1,2 @@
 Race: Kasparan
-
 Sigil Knight
